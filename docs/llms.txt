@@ -21,7 +21,7 @@
 
 ## Client coverage
 
-- Supported agents: 45 automatic/conditional client surfaces (39 automatically detected + 6 conditional/explicit): Claude Code, Codex CLI, Gemini CLI, Zed, OpenCode, Antigravity, Aider, KiloCode, VS Code, Cursor, Windsurf, Augment / Auggie, OpenClaw, Kiro, Junie, Hermes, OpenHands, Cline, Warp, Qwen Code, GitHub Copilot CLI, Factory Droid, Crush, Goose, Mistral Vibe, Grok Build, Qoder CLI, Kimi Code CLI, GitLab Duo CLI, Rovo Dev CLI, Amp, Devin CLI / Local, Tabnine, Continue / cn, Visual Studio, TRAE, Roo Code, Amazon Q Developer IDE, CodeBuddy Code CLI, IBM Bob IDE, IBM Bob Shell, Pochi, Pi, Oh My Pi (omp), and Sourcegraph Cody.
+- Supported agents: 46 automatic/conditional client surfaces (40 automatically detected + 6 conditional/explicit): Claude Code, Codex CLI, Gemini CLI, Zed, OpenCode, Antigravity, Aider, KiloCode, VS Code, Cursor, Windsurf, Augment / Auggie, OpenClaw, Kiro, Junie, Hermes, OpenHands, Cline, Warp, Qwen Code, GitHub Copilot CLI, Factory Droid, Crush, Goose, Mistral Vibe, Grok Build, Qoder CLI, Kimi Code CLI, GitLab Duo CLI, Rovo Dev CLI, Amp, Devin CLI / Local, Tabnine, Continue / cn, Visual Studio, TRAE, Roo Code, Amazon Q Developer IDE, CodeBuddy Code CLI, IBM Bob IDE, IBM Bob Shell, Pochi, Pi, Oh My Pi (omp), agentty, and Sourcegraph Cody.
 
 ## Measurement and limits
 
